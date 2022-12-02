@@ -1,0 +1,518 @@
+{
+  "data" : [
+    {
+      "id": 1,
+      "Question": "Que signifie le sigle SIDA ?",
+      "Reponses": [
+        "Syndrome Immunitaire d’Acquisition",
+        "Symptôme d'Immunodéficience acquise",
+        "Situation d'Immunodéficience aigue",
+        "Syndrome d'Immunodéficience Acquise"
+      ],
+      "Explication": "SIDA signifie Syndrome d'Immuno Déficience Acquise. Au fil du temps et en l'absence de traitement efficace, les cellules coordonnant l'immunité peuvent devenir de moins en moins nombreuses et l'immunité risque d'être moins efficace"
+    },
+    {
+      "id": 2,
+      "Question": "Le SIDA se transmet par :",
+      "Reponse": [
+        "Un virus",
+        "Une bactérie",
+        "Un protozoaire",
+        "Un microbe"
+      ],
+      "Explication": "Le SIDA se transmet par les relations sexuelles ou par le sang. La transmission par voie sexuelle peut se produire lors de : relations vaginales (pénétration du pénis dans le vagin); relations anales (pénétration du pénis dans l'anus)"
+    },
+    {
+      "id": 3,
+      "Question": "Dans le monde le SIDA tue chaque jour :",
+      "Reponses": [
+        "800 personnes",
+        "10 personnes",
+        "400 personnes",
+        "100 personnes"
+      ],
+      "Explication": "En 2021, 650 000 personnes [510 000 à 860 000] sont mortes de causes liées au VIH et 1,5 million [1,1 à 2,0 millions] de personnes ont été infectées par le VIH"
+    },
+    {
+      "id": 4,
+      "Question": "Pour se protéger du SIDA il faut :",
+      "Reponses": [
+        "Utiliser un préservatif",
+        "Prendre une pilule",
+        "Prendre une douche après un rapport sexuel"
+      ],
+      "Explication": "Voici des méthodes pour se protéger d'une transmission sexuelle du VIH : Relations monogames entre partenaires sains. Rapports sexuels sans pénétration. Utilisation systématique et correcte d'un préservatif masculin ou féminin"
+    },
+    {
+      "id": 5,
+      "Question": "On peut guérir du SIDA par un vaccin :",
+      "Réponses": [
+        "Non",
+        "Oui"
+      ],
+      "Explication": "Il n'existe pas de moyen de guérir l'infection au SIDA"
+    },
+    {
+      "id": 6,
+      "Question": "Le virus s’attaque à :",
+      "Réponses": [
+        "A toutes les cellules de l'organisme",
+        "Aux globules rouges",
+        "Aux globules blancs"
+      ],
+      "Explication": "Le VIH (virus de l'immunodéficience humaine) s'attaque à deux sortes de globules blancs : les macrophages, qui interviennent précocement, en phagocytant puis en digérant les corps étrangers, et certains lymphocytes (lymphocytes T CD4), qui interviennent plus tardivement dans la réponse immunitaire"
+    },
+    {
+      "id": 7,
+      "Question": "Le nombre de personne atteinte de SIDA :",
+      "Réponses": [
+        "Est plus nombreux chez les hétérosexuels",
+        "Est plus nombreux chez les homosexuels"
+      ],
+      "Explication": "38,4 millions [33,9 millions–43,8 millions] de personnes vivaient avec le VIH en 2021"
+    },
+    {
+      "id": 8,
+      "Question": "Une personne atteinte par le sida voit-elle son espérance de vie impactée  ?",
+      "Réponses": [
+        "Faux",
+        "Vrai"
+      ],
+      "Explication": "Les personnes atteintes du VIH sous trithérapie ne développent plus le SIDA, ont une durée de vie normale et une qualité de vie normale. Elles n’ont plus de risque de contaminer leur partenaire tant qu’elles suivent le traitement"
+    },
+    {
+      "id": 9,
+      "Question": "Que signifie le sigle VIH ?",
+      "Reponses": [
+        "Virus de l'Immunodéficience Humaine",
+        "Virus Inné Humain",
+        "Virus de l'Immunodéficience Humaine"
+      ],
+      "Explication": ""
+    },
+    {
+      "id": 10,
+      "Question": "Quels liens existe-t-il entre le SIDA et le VIH ?",
+      "Reponses": [
+        "Le VIH est le virus responsable de la maladie du SIDA",
+        "Le VIH est la conséquence de la maladie du SIDA",
+        "Le VIH est le stade initial de l'infection "
+      ],
+      "Explication": "Le virus de l'immunodéficience humaine (VIH) est un type de virus qui attaque le système immunitaire du corps. Bien que l'infection par le VIH soit une affection chronique maîtrisable, si elle n'est pas traitée, elle peut affaiblir le système immunitaire ou évoluer vers le syndrome d'immunodéficience acquise (sida)"
+    },
+    {
+      "id": 11,
+      "Question": "Qu’est-ce qu’un individu séropositif :",
+      "Reponses": [
+        "Un individu porteur du VIH sans signes de la maladie",
+        "Un individu porteur du SIDA avec signes de la maladie",
+        "Une personne qui n'est pas porteuse de la maladie"
+      ],
+      "Explication": "Cela signifie que l'on a dans le sang des anticorps contre le VIH. Ces anticorps sont fabriqués par l'organisme pour lutter contre le virus. Ils apparaissent dans les premiè-res semaines qui suivent la contamination et on peut les détecter grâce aux test de dépistage"
+    },
+    {
+      "id": 12,
+      "Question": "Que veut dire “Immunodéficience humaine” ?",
+      "Reponses": [
+        "Les cellules immunitaires sont progressivement détruites",
+        "Les humains déficients auront leur immunité renforcée",
+        "Les cellules déficientes sont éliminées "
+      ],
+      "Explication": ""
+    },
+    {
+      "id": 13,
+      "Question": "L’infection par le VIH est :",
+      "Reponses": [
+        "Invisible",
+        "Douloureuse",
+        "Avec des symptômes"
+      ],
+      "Explication": "L'infection par le VIH peut rester invisible ou inapparente pendant plusieurs années: dès la contamination, les personnes séropositives peuvent transmettre le virus, mais ne présentent donc aucun signe apparent de la maladie"
+    },
+    {
+      "id": 14,
+      "Question": "Comment se faire dépister ?",
+      "Reponses": [
+        "Prise de sang",
+        "Test salivaire",
+        "Bandelettes urinaires",
+        "Test ADN"
+      ],
+      "Explication": "Un examen sanguin de dépistage, en laboratoire de biologie médicale, sans ordonnance, sans rendez-vous et sans avance de frais est possible. Un test rapide d'orientation diagnostique (TROD VIH) et un autotest VIH sont également disponibles"
+    },
+    {
+      "id": 15,
+      "Question": "En France, combien de personnes vivent avec le VIH et l’ignorent ?",
+      "Reponses": [
+        "40 000",
+        "5 000",
+        "20 000",
+        "100 000"
+      ],
+      "Explication": "32% de ces découvertes ont été faites lors d'une consultation en médecine de ville. L'île-de-France, la Côte d'Azur et la Guyane restent les régions les plus touchées. Environ 40.000 personnes vivent avec le VIH et l'ignorent"
+    },
+    {
+      "id": 16,
+      "Question": "Où faire un dépistage d'une MST ou IST ?",
+      "Reponses": [
+        "Centre de dépistage",
+        "Chez un médecin",
+        "Par un ami",
+        "A la pharmacie"
+      ],
+      "Explication": "Auprès de son médecin généraliste, d'une sage-femme ou d'un gynécologue (qui peuvent prescrire un test de dépistage des IST). Auprès d'un CeGIDD : Centre Gratuit d'Information, de Dépistage et de Diagnostic. Les dépistages y sont anonymes et gratuits. Auprès d'un Centre de Planification et d'Education Familiale (CPEF)."
+    },
+    {
+      "id": 17,
+      "Question": "Peut-on avoir des enfants quand on a le VIH ?",
+      "Reponses": [
+        "Oui",
+        "Non"
+      ],
+      "Explication": "Avoir un bébé en bonne santé quand l'un des conjoints est séropositif, c'est possible. Le principal problème est alors le risque de contamination du partenaire ou de l'enfant. La procréation médicalement assistée apporte plusieurs solutions. Il est possible d'avoir recours au « lavage de sperme ». Cette technique consiste à séparer les différentes fractions composant le sperme : d'une part, le liquide séminal."
+    },
+    {
+      "id": 18,
+      "Question": "Laquelle de ces pratiques sexuelles transmet le VIH ?",
+      "Reponses": [
+        "La pénétration",
+        "La masturbation",
+        "Les caresses",
+        "Le massage"
+      ],
+      "Explication": "Le VIH se transmet par pénétration lors d'un rapport sexuel. Le risque de contamination est faible au cours d'une pénétration vaginale, car la transmission du VIH n'est pas très fréquente dans ce cas."
+    },
+    {
+      "id": 19,
+      "Question": "Le dépistage est-il accessible aux mineurs, anonyme et gratuit ?",
+      "Reponses": [
+        "Oui",
+        "Non"
+      ],
+      "Explication": "Dépistage IST et jeunes mineurs : la plupart des CeGidd et centres du Planning familial vous reçoivent gratuitement et sans autorisation parentale, renseignez-vous au préalable en appelant le 0 800 840 800 (Sida info service) ou le 0 800 08 11 11 (Planning familial)."
+    },
+    {
+      "id": 20,
+      "Question": "Que signifie le mot puberté ?",
+      "Reponses": [
+        "‘Se couvrir de poils’ en latin",
+        "‘Celui qui pue des dessous de bras’ en grec",
+        "C'est le nom d'un groupe de Rock indépendant"
+      ],
+      "Explication": ""
+    },
+    {
+      "id": 21,
+      "Question": "Que signifie l'acronyme IST ?",
+      "Reponses": [
+        "Infection sexuellement transmissible",
+        "Institut sexuel de Toulouse",
+        "Information scientifique et technique",
+        "Indice de similarité terrienne"
+      ],
+      "Explication": "En matière de sexualité, l'acronyme IST désigne les Infections Sexuellement Transmissibles : l'ensemble des maladies qui peuvent se transmettre via nos relations sexuelles."
+    },
+    {
+      "id": 22,
+      "Question": "Une hormone est :",
+      "Reponses": [
+        "Un message électrique transmis par le sang",
+        "C'est le nom d'un groupe de Rock indépendant",
+        "Un message électrique transmis par les nerfs"
+      ],
+      "Explication": ""
+    },
+    {
+      "id": 23,
+      "Question": "Les hormones sexuelles féminines sont :",
+      "Reponses": [
+        "La progestérone et les œstrogènes",
+        "Les œstrogènes et la testostérone",
+        "La progestérone et la testostérone",
+        "Les hormones hypophysaires"
+      ],
+      "Explication": "Les hormones sexuelles féminines sont de deux types : les estrogènes (estradiol, estrone et estriol) et la progestérone. Elles sont sécrétées par les ovaires selon un cycle, dit 'cycle menstruel', dont les règles sont la manifestation."
+    },
+    {
+      "id": 24,
+      "Question": "Les règles sont déclenchées :",
+      "Reponses": [
+        "Par une diminution des taux œstrogènes et de progestérone",
+        "Par une augmentation du taux œstrogènes et de progestérone",
+        "Par le saignement des ovaires au moment de l'ovulation",
+        "Spontanément par l'organisme"
+      ],
+      "Explication": "S'il n'y a pas fécondation (c'est-à-dire pas de grossesse), l'ovaire va considérablement diminuer sa production d'hormones. Par conséquent, cela déclenche le détachement du surplus de muqueuse utérine et l'évacuation de celui-ci par le vagin. Ce surplus, c'est ce qu'on appelle les règles, ou menstruations"
+    },
+    {
+      "id": 25,
+      "Question": "Les méthodes contraceptives :",
+      "Reponses": [
+        "Visent à empêcher une grossesse",
+        "Permettent toutes de se protéger des IST",
+        "Sont toutes remboursées par la sécurité sociale",
+        "Sont toutes efficaces à 100%"
+      ],
+      "Explication": "Les différentes méthodes contraceptives sont notamment les pilules de contraception orale, les implants, les contraceptifs injectables, les patchs contraceptifs, les anneaux vaginaux, les dispositifs intra-utérins, les préservatifs, la stérilisation masculine ou féminine, les méthodes d’aménorrhée lactationnelle, les méthodes reposant sur le retrait (coït interrompu) et la connaissance des périodes de fertilité."
+    },
+    {
+      "id": 26,
+      "Question": "Utiliser 2 préservatifs en même temps lors d’un rapport vaut mieux qu’un ?",
+      "Reponses": [
+        "Faux",
+        "Vrai"
+      ],
+      "Explication": "Le frottement de préservatifs enfilés l'un sur l'autre, quels qu'ils soient (masculins et/ou féminins) augmente le risque de déchirures"
+    },
+    {
+      "id": 27,
+      "Question": "L’implant :",
+      "Reponses": [
+        "Contient les mêmes hormones que la pilule",
+        "Peut être posé à un homme",
+        "Doit être enlevé chaque mois",
+        "Est posé sur la peau et s'enlève chaque semaine"
+      ],
+      "Explication": "L'implant est un petit bâtonnet cylindrique en plastique mis en place dans le bras, il contient les mêmes hormones que les pilules progestatives mais les diffuse directement dans le sang et supprime l'ovulation pendant 3 ans"
+    },
+    {
+      "id": 28,
+      "Question": "La contraception d’urgence :",
+      "Reponses": [
+        "Doit être prise dans les 120h au plus tard",
+        "Ne peut être prescrite que grâce à une ordonnance",
+        "Est une injection intramusculaire",
+        "Peut remplacer une contraception préventive régulière"
+      ],
+      "Explication": "Pour une prise de contraception d'urgence hormonale, ne tardez pas. Plus elle est prise rapidement, plus elle est efficace ! Elle peut être prise jusqu'à cinq jours, soit 120 heures suivant le rapport à risque "
+    },
+    {
+      "id": 29,
+      "Question": "J’ai oublié ma pilule une seule fois, mais je suis toujours protégée ?",
+      "Reponses": [
+        "Faux",
+        "Vrai"
+      ],
+      "Explication": "Il n'y a pas de risque de grossesse si le retard reste inférieur à 12 heures mais il faut prendre immédiatement la pilule et prendre la suivante à l'heure habituelle (2 comprimés peuvent être pris le même jour)"
+    },
+    {
+      "id": 30,
+      "Question": "Les IST :",
+      "Reponses": [
+        "Sont à dépister pour limiter la contamination des partenaires",
+        "Présentent toujours des symptômes",
+        "Sont dues exclusivement à des virus",
+        "Ne sont pas dangereuses pour la santé"
+      ],
+      "Explication": "Selon les IST, différents types d'examens peuvent permettre le dépistage et le diagnostic comme par exemple : examen clinique des organes génitaux ,prélèvement local ou analyse d'urines, prise de sang"
+    },
+    {
+      "id": 31,
+      "Question": "L’infertilité :",
+      "Reponses": [
+        "Peut être due à une obstruction des trompes chez la femme",
+        "Est exclusivement masculine",
+        "Est due à l'utilisation de la pilule contraceptive",
+        "A toujours une origine identifiée"
+      ],
+      "Explication": "L'obstruction tubaire empêche donc la rencontre de l'ovocyte et des spermatozoïdes. Elle est l'une des principales causes d'infertilité féminine"
+    },
+    {
+      "id": 32,
+      "Question": "L’infertilité masculine :",
+      "Reponses": [
+        "Peut être due à une quantité insuffisante de spermatozoïdes",
+        "N'a jamais pour origine une IST",
+        "Peut être due à des spermatozoïdes trop mobile",
+        "Due uniquement à la présence de spermatozoïdes anormaux"
+      ],
+      "Explication": "On parle généralement d'hypogonadisme qui est défini par un défaut de testostérone associé à une diminution de la production des spermatozoïdes. Le diabète, l'hyperthyroïdie, la tumeur hypophysaire ou le syndrome de Klinefelter peuvent être à l'origine de l'hypogonadisme responsable de l'infertilité masculine"
+    },
+    {
+      "id": 33,
+      "Question": "La PMA (Procréation Médicalement Assistée) est une méthode :",
+      "Reponses": [
+        "Permettant d'aider les couples à avoir un enfant",
+        "Pour les couples qui n'ont pas de problème de stérilité",
+        "De contraception masculine",
+        "De contraception féminine"
+      ],
+      "Explication": "La procréation médicalement assistée (PMA), consiste à manipuler un ovule et/ou un spermatozoïde pour favoriser l'obtention d'une grossesse. Elle permet de palier certaines difficultés à concevoir, sans nécessairement traiter la cause de l'infertilité"
+    },
+    {
+      "id": 34,
+      "Question": "La pilule protège contre les IST ?",
+      "Reponses": [
+        "Faux",
+        "Vrai"
+      ],
+      "Explication": "Cette mesure de prévention et de lutte contre les maladies sexuellement transmissibles concerne les femmes comme les hommes. Pilule contraceptive, implant, patch, anneau contraceptif, stérilet, spermicides : aucun d'entre eux n'évite de contracter une IST"
+    },
+    {
+      "id": 35,
+      "Question": "La nidation c’est :",
+      "Reponses": [
+        "L'implantation de l’œuf dans la paroi de l'utérus",
+        "L'ovule qui est fécondé par un spermatozoïde",
+        "La production des gamètes",
+        "La période des règles"
+      ],
+      "Explication": "Une fois dans l'utérus, l'œuf se fixe dans la paroi : c'est la nidation. Elle se passe entre le sixième jour et le dixième jour de la fécondation. C'est à dire que l'œuf se place dans la cavité utérine, plus exactement dans la muqueuse utérine"
+    },
+    {
+      "id": 36,
+      "Question": "La pilule, l’implant et le patch contraceptif permettent de bloquer l’ovulation :",
+      "Reponses": [
+        "Vrai",
+        "Faux"
+      ],
+      "Explication": "Ces hormones de synthèse agissent à trois niveaux : Elles bloquent l'ovulation. épaississent la glaire cervicale ce qui empêche les spermatozoïdes de passer le col de l'utérus. modifient la muqueuse utérine pour empêcher la fixation d'un éventuel œuf"
+    },
+    {
+      "id": 37,
+      "Question": "L’IVG (Interruption Volontaire de Grossesse) chirurgicale en France peut-être pratiquer jusqu’à :",
+      "Reponses": [
+        "16 semaines de grossesse",
+        "8 semaines de grossesse",
+        "14 semaines de grossesse",
+        "18 semaines de grossesse"
+      ],
+      "Explication": "L'IVG chirurgicale peut être pratiquée jusqu'à la fin de la 14e semaine de grossesse, soit 16 semaines après le début des dernières règles. L'IVG médicamenteuse est pratiquée jusqu'à la fin de la 7e semaine de grossesse, soit au maximum 9 semaines après le début des dernières règles."
+    },
+    {
+      "id": 38,
+      "Question": "Une mineure peut se faire avorter sans le consentement de ses parents ?",
+      "Reponses": [
+        "Vrai",
+        "Faux"
+      ],
+      "Explication": "Il n'y a pas de condition d'âge à respecter. Si vous êtes mineure, vous pouvez choisir de demander le consentement de vos parents ou de votre représentant légal et ainsi être accompagnée dans votre démarche d'IVG. Cependant, si vous souhaitez garder le secret, l'IVG est pratiquée à votre seule demande"
+    },
+    {
+      "id": 39,
+      "Question": "L'éjaculation précoce est un problème qui touche :",
+      "Reponses": [
+        "Moins de 10% des hommes",
+        "Seulement les mecs biens, parce que ce sont les meilleurs qui partent les premiers",
+        "Entre 50 % et 60% des hommes "
+      ],
+      "Explication": "Avec les troubles de l'érection, l'éjaculation précoce est le trouble de la sexualité le plus fréquent chez les hommes. Selon les études, les données varient mais lorsqu'on les recroise, on constate qu'environ 50% des hommes souffrent au moins occasionnellement d'éjaculation précoce, et entre 10 % et 20% en soufrent souvent."
+    },
+    {
+      "id": 40,
+      "Question": "La pilule d’urgence est gratuite pour les mineures ?",
+      "Reponses": [
+        "Vrai",
+        "Faux"
+      ],
+      "Explication": "La contraception d'urgence est gratuite et accessible en pharmacie pour les jeunes femmes mineures avec ou sans prescription mais uniquement sur prescription pour les jeunes femmes majeures de moins de 26 ans"
+    },
+    {
+      "id": 41,
+      "Question": "Les gamètes mâles et femelles sont :",
+      "Reponses": [
+        "L'ovule et les spermatozoïdes",
+        "L'ovaire et les testicules",
+        "Les trompes et le canal déférent",
+        "La prostate et l'utérus"
+      ],
+      "Explication": "Les gamètes sont les cellules reproductrices, appelées spermatozoïde chez l'homme et ovule chez la femme. Elles sont situées dans les glandes sexuelles, que l'on appelle aussi les gonades. Les gonades des hommes sont les testicules et chez la femme ce sont les ovaires"
+    },
+    {
+      "id": 42,
+      "Question": "Les règles reviennent en moyenne :",
+      "Reponses": [
+        "Tous les 28 jours",
+        "Toutes les semaines",
+        "Tous les 20 jours",
+        "Tous les 34 jours"
+      ],
+      "Explication": "En moyenne, les femmes commencent à avoir leurs règles entre 11 et 14 ans. Un cycle menstruel normal dure 28 jours, mais peut aussi varier entre 21 et 35 jours"
+    },
+    {
+      "id": 43,
+      "Question": "Parmi ces propositions, laquelle n'est pas une infection sexuellement transmissible ?",
+      "Reponses": [
+        "Le chlamydiae",
+        "Le papilloma virus",
+        "Le maloki",
+        "La chaude-pisse ou gonorrhée"
+      ],
+      "Explication": "L'herpès génital, la chlamydiae, le papilloma virus, la gonorrhée, la syphilis et l'hépatite B font bien partie des IST. Pas de panique, ces IST se soignent relativement bien si elles sont dépistées à temps et peuvent être évitées. Le maloki en revanche, n'est pas une IST."
+    },
+    {
+      "id": 44,
+      "Question": "Les règles s’arrêtent :",
+      "Reponses": [
+        "À la ménopause",
+        "À la puberté",
+        "À l'âge adulte",
+        "À la mort"
+      ],
+      "Explication": "Les règles s'arrêtent lors de la ménopause, entre 45 et 55 ans"
+    },
+    {
+      "id": 45,
+      "Question": "Qu’est-ce que la pilule du lendemain ?",
+      "Reponses": [
+        "Elle diminue les chances de grossesse après un rapport",
+        "Elle diminue les effets de la gueule de bois",
+        "Elle remplace la pilule contraceptive si on l'a oublié",
+        "Elle augmente les chances d'avoir un enfant"
+      ],
+      "Explication": "La contraception d'urgence hormonale ou 'pilule du lendemain' doit être prise au plus tard dans les 3 à 5 jours après un rapport sexuel à risque. Elle est disponible sans prescription médicale et de façon anonyme et gratuite aux mineures"
+    },
+    {
+      "id": 46,
+      "Question": "L’IVG (Interruption Volontaire de Grossesse) est légale en France depuis :",
+      "Reponses": [
+        "1975",
+        "1935",
+        "1955",
+        "1995"
+      ],
+      "Explication": "L'interruption volontaire de grossesse (IVG) est, en France, un avortement provoqué, décidé pour des raisons non médicales dans le cadre légal instauré par la loi Veil du 17 janvier 1975 . Son dispositif légal est inscrit aux articles L. 2211-1 et suivants du Code de santé publique"
+    },
+    {
+      "id": 47,
+      "Question": "Outre-le VIH/SIDA, quelle est l’IST que l’on garde à vie ?",
+      "Reponses": [
+        "L'herpès génital",
+        "La chlamydiae",
+        "La syphilis",
+        "La chaude-pisse ou gonorrhée"
+      ],
+      "Explication": "l'herpès génital. Comme le VIH, l'herpès génital est un virus qui, dès la première infection, s’installe dans l’organisme sans provoquer de symptômes. Cependant, on le garde à vie. Lorsque l'on est très stressé ou très fatigué, les signes apparaissent et provoquent des crises pendant lesquelles on est très contagieux. Les autres IST se soignent relativement facilement si elles sont dépistées à temps."
+    },
+    {
+      "id": 48,
+      "Question": "Toutes les infections sexuellement transmissibles sont mortelles ?",
+      "Reponses": [
+        "Faux",
+        "Vrai"
+      ],
+      "Explication": "Sur ces huit infections, quatre peuvent être guéries : la syphilis, la gonorrhée, la chlamydiose et la trichomonase. Les quatre autres sont des infections virales incurables : l'hépatite B, le virus de l'herpès (HSV), le VIH et le papillomavirus humain (PVH)"
+    },
+    {
+      "id": 49,
+      "Question": "Le papillomavirus (HPV) peut provoquer :",
+      "Reponses": [
+        "Des condylomes (verrues génitales) ou des cancers (col de l’utérus, pénis, vagin, anus et gorge",
+        "Le sida",
+        "Un chancre sur les muqueuses génitales"
+      ],
+      "Explication": "Dans la plupart des cas, l'infection va disparaitre spontanément. Dans 10% des cas, elle va devenir persistante et peut à terme provoquer plusieurs types de cancers : col de l'utérus, vagin, vulve, anus, pénis, et également certains cancers de l'oropharynx, notamment des amygdales"
+    },
+    {
+      "id": 50,
+      "Question": "Le VIH peut également se transmettre par le sang :",
+      "Reponses": [
+        "Vrai",
+        "Faux"
+      ],
+      "Explication": "Le VIH se transmet par pénétration (anale ou vaginale) lors d'un rapport sexuel, par transfusion sanguine, par le partage d'aiguilles contaminées dans les établissements de soin et chez les toxicomanes, mais aussi de la mère à l'enfant au cours de la grossesse, de l'accouchement et de l'allaitement"
+    }
+  ]
+}
+
